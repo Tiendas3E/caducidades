@@ -3,7 +3,7 @@
     "productos_count": 447,
     "categorias_count": 7,
     "generated_on": "2025-10-10",
-    "grand_total": 2607911.25
+    "grand_total": "null"
   },
   "categorias": {
     "mas vendido": {
@@ -12,16 +12,16 @@
         {
           "categoria": "mas vendido",
           "producto": "tortillas!",
-          "precio": 9720.25,
-          "cantidad": 50,
-          "total": 486012.5,
+          "precio": 19.00,
+          "cantidad": 30,
+          "total": 0,
           "manufacture_date": "2025-10-10",
           "expiry_date": "2026-10-10",
-          "shelf_life_days": 365
+          "shelf_life_days": 2
         },
         {
-          "categoria": "7 JULIO",
-          "producto": "#VALUE!",
+          "categoria": "null",
+          "producto": "pm",
           "precio": 7941.12,
           "cantidad": 50,
           "total": 397056.25,
@@ -30,8 +30,8 @@
           "shelf_life_days": 365
         },
         {
-          "categoria": "7 JULIO",
-          "producto": "KEY",
+          "categoria": "null",
+          "producto": "pan",
           "precio": 3.0,
           "cantidad": 50,
           "total": 150.0,
